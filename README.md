@@ -32,17 +32,23 @@ With experience in SQL, Power BI, Python, and KPI reporting, I enjoy transformin
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-- SQL  
-- Python  
-- MySQL  
+SQL • Python • MySQL
+
+---
 
 ### 📊 Analytics & Visualization
 
-- Power BI  
-- Excel  
-- Pandas  
-- NumPy  
-- Matplotlib  
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+</p>
+
+Power BI • Excel • Pandas • NumPy • Matplotlib
+
+---
 
 ### ⚙️ Tools & Frameworks
 
@@ -50,10 +56,7 @@ With experience in SQL, Power BI, Python, and KPI reporting, I enjoy transformin
   <img src="https://skillicons.dev/icons?i=flask,git,vscode" />
 </p>
 
-- Streamlit  
-- Flask  
-- Git & GitHub  
-- VS Code  
+Streamlit • Flask • Git & GitHub • VS Code 
 
 ---
 
